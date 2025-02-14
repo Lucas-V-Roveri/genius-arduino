@@ -23,6 +23,7 @@ This project was built by me and applied with the students at the IRMÃ FLÓRIDA
 
 ## 📦 **Components**  
 
+| Component              | Quantity | Image |  
 |------------------------|----------|-------|  
 | Arduino Uno            | 1        | 🔌    |  
 | Protoboard             | 1        | 🧪    |  
