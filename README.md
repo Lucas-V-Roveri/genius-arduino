@@ -3,12 +3,15 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Arduino Compatible](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
+
+[![Test Gif]](https://github.com/Lucas-V-Roveri/genius-arduino/blob/main/assets/teste.gif)
+
+
 A classic memory challenge where you repeat sequences of lights and sounds! Built with Arduino Uno.  
-This project was seted up by me and applied with the students at the IRMÃ FLÓRIDA MESTAGA school.
+This project was built by me and applied with the students at the IRMÃ FLÓRIDA MESTAGA school.
 
 **Final Project**  
 
-![image](https://github.com/user-attachments/assets/5bb1ed30-1829-45ae-8b7a-b535f20c96c9)
 
 ---
 
@@ -30,7 +33,7 @@ This project was seted up by me and applied with the students at the IRMÃ FLÓR
 | Push Buttons           | 4        | 🎛️    |  
 | Buzzer                 | 1        | 🎶    |  
 | Jumper Wires           | ~15      | 🎚️    |  
-|------------------------|----------|-------|  
+
 ---
 
 ## 👨‍💻 **Installation**  
