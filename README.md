@@ -4,14 +4,12 @@
 [![Arduino Compatible](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
-[![Test Gif]](https://github.com/Lucas-V-Roveri/genius-arduino/blob/main/assets/teste.gif)
-
-
 A classic memory challenge where you repeat sequences of lights and sounds! Built with Arduino Uno.  
 This project was built by me and applied with the students at the IRMÃ FLÓRIDA MESTAGA school.
 
 **Final Project**  
 
+![Gameplay GIF](https://raw.githubusercontent.com/Lucas-V-Roveri/genius-arduino/main/assets/teste.gif)
 
 ---
 
@@ -38,6 +36,9 @@ This project was built by me and applied with the students at the IRMÃ FLÓRIDA
 
 ## 👨‍💻 **Installation**  
 1. Clone this repository.  
+ ```bash
+   git clone https://github.com/Lucas-V-Roveri/genius-arduino.git
+  ```
 2. Open the `Genius_Game.ino` file in the Arduino IDE.  
 3. Upload the code to your Arduino Uno.  
 
