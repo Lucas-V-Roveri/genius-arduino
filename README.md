@@ -45,7 +45,7 @@ This project was built by me and applied with the students at the IRMÃ FLÓRIDA
 
 ---
 
-## **How to Play**  
+## 🕹️ **How to Play**  
 1. The game starts by generating a random LED sequence.  
 2. Memorize the sequence of lights and sounds.  
 3. Press the buttons in the **same order** to replicate the sequence.  
